@@ -1,0 +1,28 @@
+/* * {
+    border: 1px solid red;
+} */
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: red;
+}
+
+.pageHeader {
+    text-align: center;
+}
+
+.representative {
+    display: flex;
+    flex-direction: column;
+    background:#778f9630;
+    padding: 1em;
+}
+
+.representative_info {
+    display: flex;
+    flex-flow: row wrap;
+}
